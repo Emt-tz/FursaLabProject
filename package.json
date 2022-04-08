@@ -1,0 +1,23 @@
+{
+  "name": "fursalabproject",
+  "version": "1.0.0",
+  "description": "Jamii Forums Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emt-tz/FursaLabProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emt-tz/FursaLabProject/issues"
+  },
+  "homepage": "https://github.com/Emt-tz/FursaLabProject#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
